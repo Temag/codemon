@@ -5,7 +5,7 @@ This repository contains an application for use in a Core Wars type program we c
 Braydon Johnson
 
 # Building the Project
-To build the program simple navigate to the project folder with this `README` in it and type `make`.
+To build the program simply navigate to the project folder with this `README` in it and type `make`.
 **Note** this program requires the java native interface libraries to be included during compilation, this will require you to edit the make file and replace the lines below with the path specific to your computer:
 ```
 -I/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/include 
