@@ -1,5 +1,5 @@
 # codemon
-This repository contains an application for use in a Core Wars type program we called Codemon. This application was designed for creating, editing, and submitting codemon programs for battle with other codemon in a single memory space. This program comes with a compiler (lex/yacc) for compiling code into binary files, and a GUI for edting codemon files, viewing battle outcomes, and uploading codemon to the server. The background logic for compiling codemon programs into binary files is written in C, the GUI was programmed in Java, and the two were linked together using the Java Native Interface.
+This repository contains an application for use in a Core Wars type program we called Codemon. This application was designed for creating, editing, and submitting codemon programs for battle with other codemon in a single memory space. This program comes with a compiler for compiling code into binary files and a GUI for editing codemon files, viewing battle outcomes, and uploading codemon to the server. The background logic for compiling codemon programs into binary files is programmed in C, the parser is programmed using lex & yacc, and the GUI is programmed in Java. The background functionality and GUI are linked together using the Java Native Interface.
 
 # Authors
 Braydon Johnson
